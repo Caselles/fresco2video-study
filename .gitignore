@@ -1,0 +1,4 @@
+# Generated CSV files (keep locally, don't need in repo)
+*.csv
+# macOS
+.DS_Store
